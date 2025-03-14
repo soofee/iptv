@@ -1,0 +1,44 @@
+#EXTM3U
+
+#News
+
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://www.ccn-catv.co.jp/service/tv/img/logo/bbcworldnews.png" group-title="News",BBC News Asia Pacific (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.abcnews.com/assets/dtci/icomoon/svg/logo.svg" group-title="News",ABC News Live - 24/7
+https://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/1pvYY4tIk0u0ZPkqp-zMRHXekDNq793b5TNxFO0ZUMe2ML87G6moZrvfiVWFWteEUirC" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="cnnj" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png" group-title="News",CNN J
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&bind=0&uin=159413&playseek=0
+
+
+#Business
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="Business",Bloomberg US BTV+
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1178090196891340800/BrsZ2qd6_400x400.jpg" group-title="Business",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+
+
+
+#Culture
+
+#EXTINF:-1 tvg-id="plus.nhk.jp" tvg-name="" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_152x152.png" group-title="Culture",NHK World-Japan (720p)
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arirang.com/images/logo192.png" group-title="Culture",Arilang Live
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
+
+
+
+#Weather
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://avatars.githubusercontent.com/u/44904471?s=200" group-title="Weather",AccuWeather
+https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://weather.com/daybreak-today/assets/android-icon-192x192.59ccbc.png" group-title="Weather",The Weather Channel
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
