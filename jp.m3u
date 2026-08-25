@@ -10,69 +10,68 @@ https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGN
 
 #NEWS
 
-#EXTINF:-1 group-title="News" tvg-id="NTVNEWS24.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/200px-News24.svg.png",日テレNEWS24
-https://ntv2.media.ylive.jp/out/v1/d5e0a776979146a0a300aa8b251c62db/index.m3u8
+#EXTINF:-1 tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-id="NHKWorldJapan.jp" tvg-chno="JCOM307" tvg-country="JP" group-title="News",NHK WORLD JAPAN
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="newsdig.tbs.co.jp/" tvg-logo="https://newsdig.ismcdn.jp/common/images/site_logo.svg",TBS NEWS DIG
-https://tbs2.media.ylive.jp/out/v1/197c216d82a449f89c55f451d995daed/index.m3u8
+#EXTINF:-1 tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" tvg-id="rch_47" tvg-chno="rch_47" tvg-country="JP" group-title="News",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
+#EXTINF:-1 tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" tvg-id="rch_115" tvg-chno="rch_115" tvg-country="JP" group-title="News",MBSニュース
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" tvg-chno="CH 108" tvg-country="JP" group-title="日本 / Japan",TOKYO MX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" tvg-id="rch_108" tvg-chno="rch_108" tvg-country="JP" group-title="日本 / Japan",FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
 
 
 #General
 
-#Tokyo
-#EXTINF:-1 group-title="General" tvg-id="nhk_worldpremium"　tvg-logo="https://nhkworldpremium.com/img/common/logo.png",NHKワールド・プレミアム
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-name="NHK総合" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp" tvg-chno="D011" tvg-country="JP" group-title="General",NHK G
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="nhkg_tokyo" tvg-logo="https://i.imgur.com/fAZ2BEZ.png",NHK G
-http://nl.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 tvg-name="NHK E" tvg-logo="https://i.imgur.com/WxtftlO.png" tvg-id="JOABDTV.jp" tvg-chno="D021" tvg-country="JP" group-title="General",NHK E
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-http://nl.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 tvg-name="日本テレビ" tvg-logo="https://i.imgur.com/ecbM7QS.png" tvg-id="JOAXDTV.jp" tvg-chno="D041" tvg-country="JP" group-title="General",日本テレビ
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",日本テレビ
-http://nl.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://i.imgur.com/5XnMfcR.png" tvg-id="JOEXDTV.jp" tvg-chno="D051" tvg-country="JP" group-title="General",テレビ朝日
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="tbs" tvg-logo="https://www.tbs.co.jp/ro/img/icons/tbslogo.svg",TBSテレビ
-http://nl.utako.moe/TBS/index.m3u8
+#EXTINF:-1 tvg-name="TBSテレビ" tvg-logo="https://i.imgur.com/jIZ9TlO.png" tvg-id="JORXDTV.jp" tvg-chno="D061" tvg-country="JP" group-title="General",TBSテレビ
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",フジテレビ
-http://nl.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 tvg-name="テレビ東京" tvg-logo="https://i.imgur.com/U8jBxEi.png" tvg-id="JOTXDTV.jp" tvg-chno="D071" tvg-country="JP" group-title="General",テレビ東京
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png",テレビ朝日
-http://nl.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://i.imgur.com/epJYc7P.png" tvg-id="JOCXDTV.jp" tvg-chno="D081" tvg-country="JP" group-title="General",フジテレビ
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="tv_tokyo" tvg-logo="https://video.tv-tokyo.co.jp/_nuxt/img/aafb97f.svg",テレ東
-http://nl.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://i.imgur.com/t0uZcSR.png" tvg-id="NHKBS.jp" tvg-chno="BS101" tvg-country="JP" group-title="General",NHK BS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="tokyo_mx" tvg-logo="https://s.mxtv.jp/img/logo_30th.png",TOKYO MX1
-http://nl.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 tvg-name="BS日テレ" tvg-logo="https://i.imgur.com/26ATUNc.png" tvg-id="BSNipponTV.jp" tvg-chno="BS141" tvg-country="JP" group-title="General",BS日テレ
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="tokyo_mx2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
-http://nl.utako.moe/Tokyo_MX2/index.m3u8
+#EXTINF:-1 tvg-name="BS朝日" tvg-logo="https://i.imgur.com/Cl68ZMA.png" tvg-id="BSAsahi.jp" tvg-chno="BS151" tvg-country="JP" group-title="General",BS朝日
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8
 
-#Kansai
-#EXTINF:-1 group-title="General" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",テレビ大阪
-http://nl.utako.moe/tvo/index.m3u8
+#EXTINF:-1 tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/BSt9UG2.png" tvg-id="BSTBS.jp" tvg-chno="BS161" tvg-country="JP" group-title="General",BS-TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS毎日放送
-http://nl.utako.moe/mbs/index.m3u8
+#EXTINF:-1 tvg-name="BSテレ東" tvg-logo="https://i.imgur.com/LsQlNcz.png" tvg-id="BSTVTokyo.jp" tvg-chno="BS171" tvg-country="JP" group-title="General",BSテレ東
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",朝日放送テレビ
-http://nl.utako.moe/abc/index.m3u8
+#EXTINF:-1 tvg-name="BSフジ" tvg-logo="https://i.imgur.com/N4xeDxJ.png" tvg-id="BSFuji.jp" tvg-chno="BS181" tvg-country="JP" group-title="General",BSフジ
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",関西テレビ
-http://nl.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 tvg-name="BS10" tvg-logo="https://i.imgur.com/KPZiuHl.png" tvg-id="jcom_120_110_4" tvg-chno="BS200" tvg-country="JP" group-title="General",BS10
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs10#.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",読売テレビ
-http://nl.utako.moe/ytv/index.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS京都
-http://nl.utako.moe/kbs/index.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
-http://nl.utako.moe/suntv/index.m3u8
-
+#EXTINF:-1 tvg-name="BS10スターチャンネル" tvg-logo="https://i.imgur.com/SN0ED0U.png" tvg-id="jcom_120_200_4" tvg-chno="BS201" tvg-country="JP" group-title="General",BS10スターチャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
 
 
 #Entertainment
@@ -80,5 +79,7 @@ http://nl.utako.moe/suntv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="https://api2.bangumi.org/repix/monomedia/pgmst/1/media/onair/20221111/8f3bcc6d6db74d25b46b78198d105c66.jpg",ガキの使い
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 
+#EXTINF:-1 tvg-name="ウェザーニュースLiVE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" tvg-id="rch_45" tvg-chno="CH 106" tvg-country="JP" group-title="日本 / Japan",ウェザーニュースLiVE
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
 
